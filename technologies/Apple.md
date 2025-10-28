@@ -1,6 +1,6 @@
 # Apple
 
-## Date of Release
+## Date of release of the first model
 29.06.2007 - iPhone (1st gen)
 
 ## Brief description
