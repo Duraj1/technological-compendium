@@ -1,11 +1,7 @@
 # Sun Blade 1000
 
-## General Information
-Date of Release: October 2000
-
-CPU: up to 2 UltraSPARC III CPUs
-
-RAM: up to 8GB
+## Date of Release
+October 2000
 
 ## Brief Description
 Offered as the replacement for the Sun Ultra line of workstations, these feature the new internal _Fireplane_ interconnect system.
