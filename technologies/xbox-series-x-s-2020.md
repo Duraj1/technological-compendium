@@ -1,5 +1,6 @@
 # Xbox Series X/S
-## Date of Release: 2020
+## Date of Release
+November 10 2020
 
 ## Brief description:
 A series console, comprising of two models: X and S.
