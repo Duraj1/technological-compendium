@@ -1,8 +1,10 @@
 # SiliconGraphics Octane2
 
 ## General Information
-Date of release: 2000
+Date of Release: 2000
+
 CPU: MIPS R10000, R12000, R14000
+
 RAM: 64MB to 8GB
 
 ## Brief Description
